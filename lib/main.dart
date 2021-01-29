@@ -75,7 +75,7 @@ class Pavlova extends StatelessWidget {
                   Icons.timer,
                   color: Colors.green[500],
                 ),
-                Text('COOK:'),
+                Text('COOKee:'),
                 Text('1 min'),
               ],
             ),
